@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">App Porcino</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="todos">Todos</string>
+    <string name="hembras">Hembras</string>
+    <string name="engorda">Engorda</string>
+    <string name="mi_granja">Mi Granja</string>
+    <string name="inicio">Inicio</string>
+    <string name="ganado">Ganado</string>
+    <string name="eventos">Eventos y tareas</string>
+    <string name="cuenta">Mi Cuenta</string>
+    <string name="porcicultura">Porcicultura</string>
+    <string name="perfil">Mi perfil</string>
+    <string name="about">Sobre nosotros</string>
+    <string name="sementales">Sementales</string>
+    <string name="action_settings">Configuración</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="produccion">Producción</string>
+    <string name="gastos">Gastos</string>
+    <string name="alertas">Alertas</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="title_activity_agregar_ganado">AgregarGanado</string>
+    <string name="fecha_nac">Fecha Nacimiento</string>
+    <string name="raza">Raza</string>
+    <string name="tipo">Tipo</string>
+    <string name="hembra">Hembra</string>
+    <string name="macho">Macho</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="genero">Género</string>
+    <string name="peso">Peso</string>
+    <string name="num_crias">Núm Crías</string>
+    <string name="agregar">Agregar</string>
+    <string name="fecha_compra">Fecha Compra</string>
+
+    <string-array name="tipos">
+        <item>Hembra para Cría</item>
+        <item>Para Engorda</item>
+        <item>Semental</item>
+    </string-array>
+</resources>

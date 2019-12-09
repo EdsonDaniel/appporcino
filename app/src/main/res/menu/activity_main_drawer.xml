@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/farm"
+            android:title="@string/inicio" />
+        <item
+            android:id="@+id/nav_ganado"
+            android:icon="@drawable/pork"
+            android:title="@string/ganado" />
+        <item
+            android:id="@+id/nav_eventos"
+            android:icon="@drawable/calendar"
+            android:title="@string/eventos" />
+        <item
+            android:id="@+id/nav_porcicultura"
+            android:icon="@drawable/porcicultura"
+            android:title="@string/porcicultura" />
+
+    </group>
+
+    <item android:title="@string/cuenta">
+        <menu>
+            <item
+                android:id="@+id/perfil"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/perfil" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/about" />
+        </menu>
+    </item>
+
+</menu>
